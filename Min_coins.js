@@ -26,6 +26,6 @@ function minCoins(coins, coinLenght ,V)
 let coins = [ 9, 6, 5, 1 ];
 let coinLenght = coins.length;
 let V = 11;
-console.log(minCoins(coins, m ,V) );
+console.log(minCoins(coins, coinLenght ,V) );
 
 // Take refrence from the geekForGeeks.
