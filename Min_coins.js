@@ -28,4 +28,4 @@ let coinLenght = coins.length;
 let V = 11;
 console.log(minCoins(coins, coinLenght ,V) );
 
-// Take refrence from the geekForGeeks.
+// Took refrence from the geekForGeeks.
